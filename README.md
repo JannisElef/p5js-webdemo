@@ -1,5 +1,4 @@
-# Template Project
+# p5js-webdemo
 
-This is a template for a project.
+Interactive p5.js sketches running in the browser.
 
-This README.md is hosted on [it's own GitHub Repository.](https://github.com/JannisElef/project-template)
